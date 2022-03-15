@@ -7,3 +7,6 @@ Charcha is an android application designed and developed using XML and Java prog
 - Firebase Cloud Messaging for push notifications.
 - User authentication using Firebase Authentication.
 - Tech used: Java, Firebase, Fragments, Volley, Glide, ViewPager2, RecyclerView.
+
+## Demo Video:
+Link => https://www.youtube.com/watch?v=UJ378ylfRAM
