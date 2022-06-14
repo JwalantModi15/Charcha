@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/forwardMessage"
+        android:icon="@drawable/ic_forward"
+        android:title="Forward"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/deleteMsg"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/shareMsg"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/downloadFile"
+        android:icon="@drawable/ic_download"
+        android:title="Download"
+        app:showAsAction="ifRoom" />
+</menu>
