@@ -2,11 +2,9 @@
 Charcha is an android application designed and developed using XML and Java programming language in android studio.
 
 ## Description:
-- A real-time messaging App, with interactive UI.
-- Users can send text, images, videos to other users using Firebase real-time database.
-- Firebase Cloud Messaging for push notifications.
-- User authentication using Firebase Authentication.
-- Tech used: Java, Firebase, Fragments, Volley, Glide, ViewPager2, RecyclerView.
+- Charcha is a real-time messaging App created using Java and it uses Firebase backend cloud computing services.
+- Authorized users of the app can send text, images, documents, and videos to other users in real time.
+- Integrated Firebase to use services such as NoSQL database, Cloud Storage, Authentication.
 
 ## Demo Video:
 #### Link => https://www.youtube.com/watch?v=UJ378ylfRAM
