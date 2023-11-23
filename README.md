@@ -6,5 +6,5 @@ Charcha is an android application designed and developed using XML and Java prog
 - Authorized users of the app can send text, images, documents, and videos to other users in real time.
 - Integrated Firebase to use services such as NoSQL database, Cloud Storage, Authentication.
 
-## Demo Video:
-#### Link => https://www.youtube.com/watch?v=UJ378ylfRAM
+#### Demo Video:
+Link => https://www.youtube.com/watch?v=UJ378ylfRAM
